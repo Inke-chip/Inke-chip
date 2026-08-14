@@ -58,7 +58,7 @@
 
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Inke-chip&theme=rose-pine&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&locale=ru&short_numbers=%D0%9B%D0%9E%D0%96%D0%AC" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Inke-chip&theme=rose-pine&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&locale=ru&short_numbers=%D0%9B%D0%9E%D0%96%D0%AC&%D1%84%D0%BE%D0%BD=EB545400" alt="GitHub Streak" /></a>
 
 </div>
 
