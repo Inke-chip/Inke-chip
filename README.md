@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/lqI1cZORzZAAAAAC/chikako-enjoying-the-hot-springs-by-herself-happily.gif" width="220"/>
+<img src="https://media1.tenor.com/m/lqI1cZORzZAAAAAC/chikako-enjoying-the-hot-springs-by-herself-happily.gif" width="2000"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1200&color=D8A7DB&center=true&vCenter=true&width=460&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%AF%D0%BD%D0%B0+%F0%9F%90%87;Hi%2C+I'm+Yana+%F0%9F%90%87;%C2%A1Hola%2C+soy+Yana%21+%F0%9F%90%87" alt="hello-typing-svg" />
 
