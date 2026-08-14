@@ -59,7 +59,7 @@
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=Inke-chip&show_icons=true&theme=cobalt&bg_color=AEE7FF&title_color=4a4a4a&text_color=4a4a4a&icon_color=D8A7DB&hide_border=true" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=Inke-chip&background=F7C6E0&stroke=4a4a4a&ring=D8A7DB&fire=D8A7DB&currStreakLabel=4a4a4a&hide_border=true" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Inke-chip&layout=compact&theme=cobalt&bg_color=F7C6E0&title_color=4a4a4a&text_color=4a4a4a&hide_border=true" width="48%"/>
 
 </div>
 
