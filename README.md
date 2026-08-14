@@ -12,7 +12,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AEE7FF,50:F7C6E0,100:D8A7DB&height=140&section=header" width="100%"/>
 
-## 💌 обо мне
+## 💌 Обо мне
 
 - 🎓 Разрабатываю **мобильные** и **fullstack** приложения
 - 🌱 Сейчас изучаю новые подходы к распределённым системам (см. `Electra`, `Stitch`)
@@ -22,7 +22,7 @@
 
 <br/>
 
-## 🛠️ технологии
+## 🛠️ Технологии
 
 <div align="center">
 
@@ -39,7 +39,7 @@
 
 <br/>
 
-## ✨ проекты
+## ✨ Проекты
 
 <div align="center">
 
@@ -54,11 +54,11 @@
 
 <br/>
 
-## 📊 статистика
+## 📊 Статистика
 
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=rose-pine&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&locale=ru&short_numbers=%D0%9B%D0%9E%D0%96%D0%AC" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Inke-chip&theme=rose-pine&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&locale=ru&short_numbers=%D0%9B%D0%9E%D0%96%D0%AC" alt="GitHub Streak" /></a>
 
 </div>
 
