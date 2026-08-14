@@ -2,10 +2,9 @@
 
 <img src="https://media1.tenor.com/m/lqI1cZORzZAAAAAC/chikako-enjoying-the-hot-springs-by-herself-happily.gif" width="220"/>
 
-<h1>привет, я Яна 🐇</h1>
-<h3>Code. Eat. Sleep. Repeat.</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1200&color=D8A7DB&center=true&vCenter=true&width=460&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%AF%D0%BD%D0%B0+%F0%9F%90%87;Hi%2C+I'm+Yana+%F0%9F%90%87;%C2%A1Hola%2C+soy+Yana%21+%F0%9F%90%87" alt="hello-typing-svg" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=D8A7DB&center=true&vCenter=true&width=460&lines=Mobile+%26+Fullstack+Developer;Kotlin+%7C+Java+%7C+Python+%7C+Go;Ready+for+new+challenges+%F0%9F%90%87" alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=AEE7FF&center=true&vCenter=true&width=460&lines=Mobile+%26+Fullstack+Developer;Kotlin+%7C+Java+%7C+Python+%7C+Go;Ready+for+new+challenges+%F0%9F%90%87" alt="typing-svg" />
 
 </div>
 
@@ -45,10 +44,10 @@
 <div align="center">
 
 <a href="https://github.com/Inke-chip/Stitch">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Inke-chip&repo=Stitch&theme=cobalt&bg_color=AEE7FF&title_color=4a4a4a&text_color=4a4a4a&icon_color=D8A7DB" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Inke-chip&repo=Stitch&theme=cobalt&bg_color=AEE7FF&title_color=4a4a4a&text_color=4a4a4a&icon_color=D8A7DB&hide_border=true" />
 </a>
 <a href="https://github.com/Inke-chip/Electra">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Inke-chip&repo=Electra&theme=cobalt&bg_color=F7C6E0&title_color=4a4a4a&text_color=4a4a4a&icon_color=D8A7DB" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Inke-chip&repo=Electra&theme=cobalt&bg_color=F7C6E0&title_color=4a4a4a&text_color=4a4a4a&icon_color=D8A7DB&hide_border=true" />
 </a>
 
 </div>
@@ -59,8 +58,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Inke-chip&show_icons=true&theme=cobalt&bg_color=AEE7FF&title_color=4a4a4a&text_color=4a4a4a&icon_color=D8A7DB&hide_border=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Inke-chip&theme=default&background=F7C6E0&stroke=4a4a4a&ring=D8A7DB&fire=D8A7DB&currStreakLabel=4a4a4a&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Inke-chip&show_icons=true&theme=cobalt&bg_color=AEE7FF&title_color=4a4a4a&text_color=4a4a4a&icon_color=D8A7DB&hide_border=true&count_private=true" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=Inke-chip&background=F7C6E0&stroke=4a4a4a&ring=D8A7DB&fire=D8A7DB&currStreakLabel=4a4a4a&hide_border=true" width="48%"/>
 
 </div>
 
