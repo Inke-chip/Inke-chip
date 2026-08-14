@@ -58,8 +58,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Inke-chip&show_icons=true&theme=cobalt&bg_color=AEE7FF&title_color=4a4a4a&text_color=4a4a4a&icon_color=D8A7DB&hide_border=true&count_private=true" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=Inke-chip&background=F7C6E0&stroke=4a4a4a&ring=D8A7DB&fire=D8A7DB&currStreakLabel=4a4a4a&hide_border=true" width="48%"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=rose-pine&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&locale=ru&short_numbers=%D0%9B%D0%9E%D0%96%D0%AC" alt="GitHub Streak" /></a>
 
 </div>
 
