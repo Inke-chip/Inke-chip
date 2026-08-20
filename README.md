@@ -49,6 +49,9 @@
 <a href="https://github.com/Inke-chip/Electra">
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=Inke-chip&repo=Electra&theme=cobalt&bg_color=F7C6E0&title_color=4a4a4a&text_color=4a4a4a&icon_color=D8A7DB&hide_border=true" />
 </a>
+<a href="https://github.com/Inke-chip/Pulse">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Inke-chip&repo=Pulse&theme=cobalt&bg_color=D8A7DB&title_color=4a4a4a&text_color=4a4a4a&icon_color=AEE7FF&hide_border=true" />
+</a>
 
 </div>
 
@@ -58,8 +61,19 @@
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Inke-chip&show_icons=true&theme=cobalt&bg_color=AEE7FF&title_color=4a4a4a&text_color=4a4a4a&icon_color=D8A7DB&hide_border=true" width="420" height="195"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Inke-chip&layout=compact&card_width=420&theme=cobalt&bg_color=F7C6E0&title_color=4a4a4a&text_color=4a4a4a&hide_border=true" width="420" height="208"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Inke-chip&show_icons=true&theme=cobalt&bg_color=AEE7FF&title_color=4a4a4a&text_color=4a4a4a&icon_color=D8A7DB&hide_border=true" width="420" height="200"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Inke-chip&layout=compact&card_width=420&theme=cobalt&bg_color=F7C6E0&title_color=4a4a4a&text_color=4a4a4a&hide_border=true" width="420" height="200"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Inke-chip&background=00000000&border=00000000&stroke=D8A7DB&ring=D8A7DB&fire=F7C6E0&currStreakLabel=D8A7DB&currStreakNum=AEE7FF&sideNums=AEE7FF&sideLabels=AEE7FF&dates=AEE7FF&hide_border=true" width="840" alt="GitHub Streak Stats"/>
+
+</div>
+
+<br/>
+
+## 🔥 Активность по дням
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Inke-chip&bg_color=00000000&color=4a4a4a&line=D8A7DB&point=F7C6E0&area=true&area_color=AEE7FF&hide_border=true&title_color=D8A7DB" width="100%"/>
 
 </div>
 
