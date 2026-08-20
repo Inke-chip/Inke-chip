@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1200&color=D8A7DB&center=true&vCenter=true&width=460&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%AF%D0%BD%D0%B0+%F0%9F%90%87;Hi%2C+I'm+Yana+%F0%9F%90%87;%C2%A1Hola%2C+soy+Yana%21+%F0%9F%90%87;Ciao%2C+sono+Yana+%F0%9F%90%87;Salut%2C+je+suis+Yana+%F0%9F%90%87;Ol%C3%A1%2C+eu+sou+a+Yana+%F0%9F%90%87;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%83%A4%E3%83%8A%E3%81%A7%E3%81%99+%F0%9F%90%87;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E9%9B%85%E5%A8%9C+%F0%9F%90%87" alt="hello-typing-svg" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=AEE7FF&center=true&vCenter=true&width=460&lines=Mobile+%26+Fullstack+Developer;Kotlin+%7C+Java+%7C+Python+%7C+Go;Ready+for+new+challenges+%F0%9F%90%87" alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=AEE7FF&center=true&vCenter=true&width=460&lines=Mobile+%26+Fullstack+Developer;Kotlin+%7C+Python+%7C+Go;Ready+for+new+challenges+%F0%9F%90%87" alt="typing-svg" />
 
 </div>
 
